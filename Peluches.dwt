@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>index</title>
+<!-- TemplateEndEditable -->
+<link href="../stailos.css" rel="stylesheet" type="text/css" media="screen">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="principal">
+	<div id="encabezado">
+		<div id="logo"><img src="../logop.jpg" width="100" height="99" alt=""/></div>
+		<div id="titulo"><!-- TemplateBeginEditable name="titulo" -->Peluches Breia<!-- TemplateEndEditable --></div>
+	</div>
+		</div>
+	<div id="menu">Osos | Pingüinos | Gatos | Variado</div>
+	<div id="cuerpo"><!-- TemplateBeginEditable name="cuerpo" -->cuerpo<!-- TemplateEndEditable --></div>
+<div id="pie">
+  <div id="derechos">Todos los derechos reservados a Peluches Breia&copy;</div>
+		<div class="img" id="redes"><img src="../x.png" alt="" width="50" height="51" class="img"/><img src="../Face.png" alt="" width="50" height="50" class="img"/><img src="../sta.png" width="50" height="50" alt=""/></div>
+</div>
+</body>
+</html>
