@@ -17,13 +17,13 @@
 	width: 100px;
 	height: 100px;
 	background: #E081B6;
-	float: left
+	float: left;
 }
 #titulo{
 	width: 900px;
 	height: 100px;
 	background: #E081B6;
-	float: left
+	float: left;
 }
 #menu{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
@@ -33,10 +33,14 @@
 	width: 1000px;
 	clear: both;
 	background: #E081B6;
+	margin-left: auto;
+	margin-right: auto;
 }
 #cuerpo{
 	background-color: #E081B6;
 	width: 1000px
+	margin-left: auto;
+	margin-right: auto;
 }
 #pie{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
@@ -45,6 +49,8 @@
 	background-color: #E081B6;
 	height: 100px;
 	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
 }
 #derechos{
 	width: 500px;
