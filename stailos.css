@@ -1,0 +1,63 @@
+@charset "utf-8";
+#principal{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto
+}
+#encabezado{
+	width: 1000px;
+	height: 100px;
+	font-size: 65px;
+	text-align: center;
+		color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background: #E081B6
+}
+#logo{
+	width: 100px;
+	height: 100px;
+	background: #E081B6;
+	float: left
+}
+#titulo{
+	width: 900px;
+	height: 100px;
+	background: #E081B6;
+	float: left
+}
+#menu{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 36px;
+	text-align: center;
+	height: 50px;
+	width: 1000px;
+	clear: both;
+	background: #E081B6;
+}
+#cuerpo{
+	background-color: #E081B6;
+	width: 1000px
+}
+#pie{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	font-style: italic;
+	background-color: #E081B6;
+	height: 100px;
+	width: 1000px;
+}
+#derechos{
+	width: 500px;
+	height: 100px;
+	float: left;
+}
+#redes{
+	width: 500px;
+	height: 100px;
+	float: left;
+}.img {
+    font-size: 20px;
+}
+.center {
+    text-align: center;
+}
